@@ -1,0 +1,83 @@
+ #sidious{
+	width: 240px;
+	height: 110px;
+	border: 1px solid grey;
+	display: inline-block;
+	text-align: center;
+	background-image: url("../images/sidious.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: .7; 
+
+}
+
+#maul{
+	width: 240px;
+	height: 110px;
+	border: 1px solid grey;
+	display: inline-block;
+	text-align: center;
+	background-image: url("../images/maul.png");
+	opacity: .7; 
+
+}
+
+#obi{
+	width: 240px;
+	height: 110px;
+	border: 1px solid grey;
+	display: inline-block;
+	text-align: center;
+	background-image: url("../images/obi.jpg");
+	opacity: .7; 
+
+}
+
+#luke{
+	width: 240px;
+	height: 110px;
+	border: 1px solid grey;
+	display: inline-block;
+	text-align: center;
+	background-image: url("../images/luke.jpg");
+	background-repeat: no-repeat;
+	background-size: cover; 
+	opacity: .7; 
+
+}
+#message{
+	width:500px;
+	height:120px;
+	border: 1px solid yellow;
+}
+
+
+body{
+	background-image: url("../images/image1.jpg");
+	background-size: cover;              
+    background-repeat: no-repeat;
+    background-position: center center; 
+    margin-top: 80px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	color: white;
+}
+#defender, #message, #fightSection, #yourCharacter, #enemiesAvailable{
+	text-align: center;
+	margin: 0 auto 0 auto;
+}
+
+.remaining{
+	text-align: center;
+}
+
+.fight{
+	width: 100px;
+}
+
