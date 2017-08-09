@@ -12,4 +12,4 @@ Star Wars based character game where the user can select any of the available ch
 
 ----------------------------------------
 Site link
-[Github Link - StarWars RPG](https://yabdabs.github.io/StarWars-RPG/)
+[StarWars RPG Link](https://yabdabs.github.io/StarWars-RPG/)
