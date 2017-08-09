@@ -11,5 +11,4 @@ Star Wars based character game where the user can select any of the available ch
 * JQuery
 
 ----------------------------------------
-Site link
 [StarWars RPG Link](https://yabdabs.github.io/StarWars-RPG/)
